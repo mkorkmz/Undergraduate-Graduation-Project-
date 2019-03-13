@@ -1,4 +1,4 @@
-# Graduation_Project
+# Graduation Project
 Smart System Design With Windows IoT Device
 
 ![İsim](https://github.com/melihkorkmz/Graduation_Project/blob/master/Project_Diagram.jpg)
